@@ -34,7 +34,7 @@ The user selected the trusted Zimbra to PST conversion tool because of its dedic
 
 * The user performed installation operations by downloading and installing Webbyacad Zimbra Converter on their Windows system.
 
-* The software allowed users to import TGZ files through either the "Add File" or "Add Folder" features.
+* The software allowed users to import TGZ files through either the "**Add File**" or "**Add Folder**" features.
 
 * The system showed previews for all emails and folders so users could make specific data selections for conversion.
 
